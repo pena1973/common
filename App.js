@@ -10,7 +10,6 @@ import ClientsS from './src/screens/clients';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 //import '@react-native-masked-view/masked-view';
 
-
 // function Adding({ navigation }) {
 //   return (
 //     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
